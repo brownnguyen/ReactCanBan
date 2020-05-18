@@ -1,0 +1,6 @@
+let mangSP = [
+    { "maSP": 1, "tenSP": 'black car', hinhAnh: './img/CarBasic/products/black-car.jpg', gia: 1000 },
+    { "maSP": 2, "tenSP": 'red car', hinhAnh: './img/CarBasic/products/red-car.jpg', gia: 2000 },
+    { "maSP": 3, "tenSP": 'silver car', hinhAnh: './img/CarBasic/products/silver-car.jpg', gia: 3000 },
+    { "maSP": 3, "tenSP": 'Steel car', hinhAnh: './img/CarBasic/products/steel-car.jpg', gia: 3000 }
+  ];
