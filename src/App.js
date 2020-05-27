@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import BaiTapGioHang from './BaiTapGioHang/BaiTapGioHang';
+import LifecycleReact from './LifeCycleReact/LifecycleReact';
 function App() {
   return (
     <div>
@@ -18,7 +18,9 @@ function App() {
       {/* <DanhSachPhim mangPhim = {data} /> */}
       {/* <BaiTapQuanLyXeRedux/> */}
       {/* <BaiTapThuKinh/> */}
-      <BaiTapGioHang/>
+      {/* <BaiTapGioHang/> */}
+      {/* <BaiTapGameBauCua/> */}
+      <LifecycleReact />
     </div>
   );
 }
